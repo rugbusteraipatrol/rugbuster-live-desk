@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+build/
+dist/
+release*/
+*.log
+*.sqlite3
+*.key
+*.zip
